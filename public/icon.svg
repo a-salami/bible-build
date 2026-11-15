@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="BibleBuild icon">
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#4f46e5"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <rect x="132" y="96" width="248" height="320" rx="26" fill="rgba(255,255,255,0.10)" stroke="rgba(255,255,255,0.45)"/>
+  <path d="M214 168h84c31 0 56 25 56 56v0c0 31-25 56-56 56h-84zm0 112h94c31 0 56 25 56 56v0c0 31-25 56-56 56h-94z" fill="#ffffff" opacity="0.95"/>
+  <path d="M178 164v184m0-184h36m-36 0h36m-36 184h36m-36 0h36" stroke="#ffffff" stroke-width="14" stroke-linecap="round" opacity="0.9"/>
+</svg>
